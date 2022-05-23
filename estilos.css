@@ -1,0 +1,62 @@
+
+h1{
+	font-family: arial;
+	font-size: 30px;
+	text-align: center;
+	border: 2px solid black;
+}
+
+img{
+	position: relative;
+	width: 60%;
+	height: 300px;
+	margin-top: 5%;
+	
+
+}
+.im1{
+
+	left: 15%;
+}
+.img2{
+	margin-left: 15%;
+}
+div  {
+	height: 400px;
+	width: 25%;
+	display: inline-block;
+	margin-left: 7%;
+	margin-top: 5%;
+}
+.centro{
+	width: 100%;
+	height: 600px;
+}
+p{
+	display: inline-block;
+	border: 2px double black;
+	padding: 2px 5px;
+	
+}
+.p1{
+	margin-left: 16%;
+}
+.p2{
+	margin-left: 25%;
+}
+.p3{
+	margin-left: 32%;
+}
+.rodape{
+	width: 100%;
+	height: 100px;
+	background-color:gray;
+	margin-left: 0%;
+	display: flex;
+	justify-content: center;
+	background: #c31432;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
